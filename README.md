@@ -1,5 +1,7 @@
 # Python-Code-Snippet
 
+
+## Code to convert base64 string to image. 
 ```python
 
 def getI420FromBase64(codec, image_path="c:\\"):
