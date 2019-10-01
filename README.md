@@ -17,5 +17,11 @@ def getI420FromBase64(codec, image_path="c:\\"):
   ```
 
 ## Usefull links to follow :
-### https://github.com/ageitgey/face_recognition/issues/556
-### https://github.com/ageitgey/face_recognition/issues/351
+#### https://github.com/ageitgey/face_recognition/issues/556
+#### https://github.com/ageitgey/face_recognition/issues/351
+
+## Face detection accuracy detection
+#### https://github.com/Anki7s/Python-Code-Snippet
+
+## Resources for ML :
+#### https://www.coursehero.com/
