@@ -15,3 +15,7 @@ def getI420FromBase64(codec, image_path="c:\\"):
     img.save(image_path + str(t) + '.png', "PNG")
     
   ```
+
+## Usefull links to follow :
+### https://github.com/ageitgey/face_recognition/issues/556
+### https://github.com/ageitgey/face_recognition/issues/351
